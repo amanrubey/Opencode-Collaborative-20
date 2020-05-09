@@ -1869,7 +1869,17 @@ var partDetails=[  {
   "twitter": "",
   "referral": ""
 }
+{
 
+       "name" : "Aman Rubey",
+       "imageurl" : "",
+       "about" : "Fresher",
+       "college" : "IIIT ALLAHABAD",
+       "facebook" : "",
+       "github" : "https://github.com/amanrubey",
+       "twitter" : "url",
+       "referral" : "seniors"
+    }
 
 
 ]
